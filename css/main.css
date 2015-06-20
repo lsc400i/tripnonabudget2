@@ -95,6 +95,9 @@ text-align: right;
   padding: 20px;
 }
 
+#footer li{
+  padding-bottom: 5px;
+}
 #footer a {
   color: #fd9939;
   margin-left: ;
